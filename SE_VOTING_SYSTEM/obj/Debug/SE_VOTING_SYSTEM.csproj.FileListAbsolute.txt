@@ -1,0 +1,6 @@
+c:\users\hamza\documents\visual studio 2013\Projects\SE_VOTING_SYSTEM\SE_VOTING_SYSTEM\bin\SE_VOTING_SYSTEM.dll.config
+c:\users\hamza\documents\visual studio 2013\Projects\SE_VOTING_SYSTEM\SE_VOTING_SYSTEM\bin\SE_VOTING_SYSTEM.dll
+c:\users\hamza\documents\visual studio 2013\Projects\SE_VOTING_SYSTEM\SE_VOTING_SYSTEM\bin\SE_VOTING_SYSTEM.pdb
+c:\users\hamza\documents\visual studio 2013\Projects\SE_VOTING_SYSTEM\SE_VOTING_SYSTEM\obj\Debug\SE_VOTING_SYSTEM.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2013\Projects\SE_VOTING_SYSTEM\SE_VOTING_SYSTEM\obj\Debug\SE_VOTING_SYSTEM.dll
+c:\users\hamza\documents\visual studio 2013\Projects\SE_VOTING_SYSTEM\SE_VOTING_SYSTEM\obj\Debug\SE_VOTING_SYSTEM.pdb

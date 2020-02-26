@@ -1,0 +1,36 @@
+﻿body {
+     margin:0;
+    padding:0;
+
+   background-image:url(/images/maxresdefault.jpg);
+       background-size:cover;
+    
+    font-family:sans-serif;
+}
+.vsignup-box{
+    width:270px;
+    height:500px;
+    background: #55f216;
+    color:#000000;
+    top: 50%;
+    left:40%;
+    position:absolute;
+    transform:translate(-50%,-50%);
+    box-sizing:border-box;
+    padding:70px 30px;
+}
+.vsignup-box p{
+  
+    font-weight:bold;
+}
+
+.vsignup-box input[type=submit]
+{
+    border:none;
+    outline:none;
+    height:40px;
+    background: #ff0000;
+    color:#fff;
+    font-size:18px;
+    border-radius:20px;
+}
